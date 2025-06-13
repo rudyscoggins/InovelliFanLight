@@ -19,6 +19,6 @@ This repository contains a Hubitat driver for the **Inovelli LZW36 Fan/Light Swi
 After installation the driver exposes commands for controlling the fan and light components individually as well as built‑in notifications. All parameters can be edited in the device preferences. See the code comments for details on each option.
 
 ## Contributing
-Pull requests are welcome. Please open an issue first to discuss any major changes.
+Pull requests are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before getting started. Major changes should be discussed in an issue first.
 
-This project is released under the Apache 2.0 license.
+This project is released under the [Apache 2.0 license](LICENSE). A summary of driver changes can be found in the [changelog](CHANGELOG.md).
